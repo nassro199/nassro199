@@ -5,6 +5,6 @@
 ## 🧑‍💻 i'm learning:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-![nassro199 GitHub stats](https://github-readme-stats.vercel.app/api?username=nassro199&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nassro199&theme=tokyonight)
+![nassro199 GitHub stats](https://github-readme-stats.vercel.app/api?username=nassro199&show_icons=true&theme=radical)
 
 
