@@ -45,7 +45,7 @@
 
 ###
 
-<h2 align="center">Watch my contibution graph get eaten by the snake</h2>
+<h2 align="center">Watch my contribution graph get eaten by the snake</h2>
 
 ###
 
