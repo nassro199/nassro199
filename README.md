@@ -45,12 +45,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nassro199/nassro199/output/snake.svg" alt="Snake animation" />
+<h2 align="center">Watch my contibution graph get eaten by the snake</h2>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Mrinank-Bhowmick/Mrinank-Bhowmick/master/PNG/footer.png"  />
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/nassro199/nassro199/output/snake.svg" alt="Snake animation" />
 
 ###
