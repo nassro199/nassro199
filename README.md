@@ -45,12 +45,4 @@
 
 ###
 
-<h2 align="center">Watch my contribution graph get eaten by the snake</h2>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nassro199/nassro199/output/snake.svg" alt="Snake animation" />
-
-###
