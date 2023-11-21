@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is nassro and I'm a Backend Engineer from USA</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=hack&pause=1000&color=20FFC1&random=false&width=435&lines=Hey!%2C+i%60m+nassro+%F0%9F%91%8B;+Welcome+To+My+Profile" alt="Typing SVG" /></a>
 
 ###
 
