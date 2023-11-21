@@ -11,7 +11,6 @@
 <h2 align="center">𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:</h2>
 
 ###
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nassro190&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
@@ -44,5 +43,11 @@
 </div>
 
 ###
+
+<h1 align="center">Spotify Status</h1>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nassro190&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+
 
 
