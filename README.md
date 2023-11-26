@@ -44,17 +44,24 @@
 
 ###
 
-  <h1 align="center">Spotify</h1>
-  <a href="https://github.com/nassro199">
-    <img src="https://spotify-nassro.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
-  </a>
+<div align="center">
 
-  <h1 align="center">Discord</h1>
-  <a href="https://discord.com/users/614700271599222795">
-    <img src="https://lanyard.cnrad.dev/api/614700271599222795" alt="Discord Presence">
-  </a>
+  <div>
+    <h1>Spotify</h1>
+    <a href="https://github.com/nassro199">
+      <img src="https://spotify-nassro.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
+    </a>
+  </div>
+
+  <div>
+    <h1>Discord</h1>
+    <a href="https://discord.com/users/614700271599222795">
+      <img src="https://lanyard.cnrad.dev/api/614700271599222795" alt="Discord Presence">
+    </a>
+  </div>
 
 </div>
+
 
 
 
