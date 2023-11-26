@@ -58,7 +58,9 @@
 <h1 align="center">Discord</h1>
 
 <div align="center">
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/614700271599222795)](https://discord.com/users/614700271599222795)
+
 </div>
 
 
