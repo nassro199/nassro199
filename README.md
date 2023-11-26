@@ -48,7 +48,7 @@
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nassro190&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<a href="https://github.com/nassro199"><img src="https://spotify-nassro.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song"></a>
 [![Discord Presence](https://lanyard.cnrad.dev/api/614700271599222795)](https://discord.com/users/614700271599222795)
 </div>
 
