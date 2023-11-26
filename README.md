@@ -44,10 +44,6 @@
 
 ###
 
-<h1 align="center">Spotify</h1>
-
-<div align="center">
-
   <h1 align="center">Spotify</h1>
   <a href="https://github.com/nassro199">
     <img src="https://spotify-nassro.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
