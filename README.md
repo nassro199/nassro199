@@ -1,7 +1,6 @@
 # Nassro's Profile
 
-[<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=hack&pause=1000&color=20FFC1&random=false&width=435&lines=Hey!%2C+i%60m+nassro+%F0%9F%91%8B;+Welcome+To+My+Profile" alt="Typing SVG" /></a>
-](https://readme-typing-svg.demolab.com/demo/?color=F7F7F7&lines=Hey!%2C+i'm+nassro+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+To+my+profile!)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hey!%2C+i'm+nassro+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+To+my+profile!)](https://git.io/typing-svg)
 ## About Me
 ###
 
