@@ -3,12 +3,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=hack&pause=1000&color=20FFC1&random=false&width=435&lines=Hey!%2C+i%60m+nassro+%F0%9F%91%8B;+Welcome+To+My+Profile" alt="Typing SVG" /></a>
 
 ## About Me
+###
 
-I'm currently learning and working on projects that interest me. I'm passionate about open source, Linux, and various programming languages including Python, C++, JavaScript, and more.
+<br clear="both">
 
-**Fun Fact:** "Copy-and-paste was programmed by programmers for programmers, actually."
+<p align="left">⦿ 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 and working in what I want<br><br>⦿  Interested in Open source  | Linux | Python | C++ | JavaScript<br><br>⦿ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : “Copy-and-Paste was programmed by programmers for programmers actually.”<br><br>⦿ 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑</p>
 
-I use Arch Linux.
+###
 
 
 ## Skills & Tools
